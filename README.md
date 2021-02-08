@@ -14,3 +14,19 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## About project
+
+This project is a client side part of voice recognition project where this flutter app uses Spring boot to store user info and Flask to predict the user voice.
+
+## Steps to Run this Application
+
+step 1: pull Speaker_recognition_Spring_boot_API
+
+Step 2: pull Speaker_recognition_Flask_API 
+
+Step 3: Run above two backend side code
+
+step 4: pull this code and Run this aswell
+
+step 5: Completed (make sure the mobile application sould be connected in same network)
